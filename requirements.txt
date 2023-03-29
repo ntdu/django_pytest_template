@@ -1,0 +1,6 @@
+Django
+pytest-django
+mock
+requests
+djangorestframework
+pytest
